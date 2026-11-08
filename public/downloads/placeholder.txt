@@ -1,0 +1,3 @@
+Congratulations! You downloaded a placeholder.
+
+Replace this with a real game build (e.g. a .zip) and point the game's download.url at it in src/data/games.js.
